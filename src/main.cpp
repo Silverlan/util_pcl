@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-#pragma comment(lib,"util.lib")
+#pragma comment(lib,"sharedutils.lib")
 #pragma comment(lib,"mathutil.lib")
 
 #ifdef _DEBUG
