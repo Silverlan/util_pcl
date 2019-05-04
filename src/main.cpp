@@ -24,10 +24,3 @@
 #pragma comment(lib,"pcl_segmentation_release.lib")
 #pragma comment(lib,"pcl_filters_release.lib")
 #endif
-/*
-int main(int argc,char *argv[])
-{
-
-	return 0;
-}
-*/
